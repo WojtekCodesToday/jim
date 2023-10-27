@@ -1,0 +1,9 @@
+{
+  "name": "jim-js",
+  "version": "1.0.0",
+  "description": "Vim recreation in Node.js",
+  "main": "index.js",
+  "type": "module",
+  "author": "",
+  "license": "ISC"
+}
